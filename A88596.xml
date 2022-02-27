@@ -1,0 +1,372 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The true and perfect speec [sic] of Mr. Christopher Love on the scaffold on Tower-Hill on Friday last, being the two and twentieth day of this instant August, 1651. Comprizing his funerall sermon; his exhortation to the citizen his propositions touching religion; and his prayer immediately before his head was severed from his body. Together with Mr. Gibbons his speech; and the manner of his deportment, carriage, and resolution: published for the good of the Common-wealth of England.</title>
+            <author>Love, Christopher, 1618-1651.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88596</idno>
+            <idno type="STC">Wing L3182</idno>
+            <idno type="STC">Thomason E790_3</idno>
+            <idno type="STC">ESTC R207307</idno>
+            <idno type="EEBO-CITATION">99866365</idno>
+            <idno type="PROQUEST">99866365</idno>
+            <idno type="VID">118636</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88596)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118636)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 120:E790[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The true and perfect speec [sic] of Mr. Christopher Love on the scaffold on Tower-Hill on Friday last, being the two and twentieth day of this instant August, 1651. Comprizing his funerall sermon; his exhortation to the citizen his propositions touching religion; and his prayer immediately before his head was severed from his body. Together with Mr. Gibbons his speech; and the manner of his deportment, carriage, and resolution: published for the good of the Common-wealth of England.</title>
+                  <author>Love, Christopher, 1618-1651.</author>
+               </titleStmt>
+               <extent>[1], 7 p.   </extent>
+               <publicationStmt>
+                  <publisher>by Iohn Clowes,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "manner"; "Aug: 27.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Love, Christopher, 1618-1651 --  Early works to 1800.</term>
+               <term>Last words --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Taryn Hakala</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Taryn Hakala</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118636:1" rendition="simple:additions"/>
+            <p>The true and perfect SPEECH OF Mr. Chriſtopher Love On the Scaffold on TOWER-HILL ON Friday laſt, being the two and twentieth Day of this inſtant Auguſt, 1651.</p>
+            <p>
+               <hi>COMPRIZING</hi> His Funerall Sermon; His Exhortation to the Citizens his Propoſitions touching Religion; And His Prayer immediately before his Head was ſevered from his body.</p>
+            <p>
+               <hi>TOGETHER</hi> With Mr. <hi>GIBBONS</hi> his Speech; and the manner of his Deportment, Carriage, and Reſolution:</p>
+            <p>
+               <hi>Publiſhed for the good of the Common-wealth of</hi> England</p>
+            <figure>
+               <figDesc>two in one heart</figDesc>
+            </figure>
+            <p>Imprinted at <hi>London</hi> by IOHN CLOWES. 1651.</p>
+         </div>
+      </front>
+      <body>
+         <div type="oration">
+            <pb n="1" facs="tcp:118636:2"/>
+            <head>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ove his Speech on the Scaffold on Tower Hill on Friday laſt, being accompanied by the Sheriffs, Mr. Calamy (the Miniſter) and other Gentlemen of quality; With the manner of his Deportment; upon the preaching of his Funerall Sermon, and his Exhortation to the People worthy of peruſal.</head>
+            <p>Beloved Chriſtians, I am made this day a ſpectacle to God, Angels, and Men. I am made a grief to the Godly, a laughing ſtock to the wicked, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a gazing ſtock to all, yet bleſſed be God not a terror to my ſelf, al<g ref="char:EOLhyphen"/>though there be but a little between me and death; yet that which <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eares up my heart is, that there is but a little between me and Heaven<g ref="char:punc">▪</g> it com<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orted Dr. <hi>Taylor</hi> that famous Martyr, going to his execution, to think th<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> was but two ſtiles between him and his Fathers Houſe, there is a leſſer way between me and my Fathers houſe; but two ſteps between me and glory: it is but lying down upon the Block and I ſhall aſcend upon a Throne<g ref="char:punc">▪</g> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> am this day fa<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ling towards the Ocean of eternity, through a rough paſſage to <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y Haven of reſt, through the red Sea unto the promiſed Land: methinks <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> God ſp<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> as he ſaid to <hi>Moſes go up to Mount Nebo and die there;</hi> ſo to me go up to <hi>Tower Hill</hi> and die there<g ref="char:punc">▪</g> 
+               <hi>Jacob</hi> was old, yet knew not the day of his death, yet I am young, and know the day of my death, the kind of my death, and the place of my death. Alſo ſuch a kind of death is it, that two famous Preachers of the word of God ſuffered it before me. <hi>John</hi> the <hi>Baptiſt,</hi> and <hi>Paul</hi> the <hi>Apoſtle,</hi> both beheaded, mention being made of one in Scripture ſtory, the other in <hi>Eccleſiaſti<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>all</hi> Hiſtory<g ref="char:punc">▪</g> theſe and other Saints as I have read were beheaded for the Word, and for the<gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> but herein is my diſadvantage, men think that I ſuffer not for Religion or Conſcience but for medling with State-matters an old guiſe of the D<gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the cauſe of death to the intermedling with State-affairs, the Rulers of <hi>Iſrael</hi> would put <hi>Ieremy</hi> to death upon a civil account, be<g ref="char:EOLhyphen"/>cauſe he fell away from the <hi>Chaldeans,</hi> &amp; (as the people ſaid) would have brought <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> forraign force to invade <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>em, which thing is laid to my charge, and <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> thereof as <hi>Ieremiah</hi> was<g ref="char:punc">▪</g> I find the cauſe of mens ſufferings in Scripture, <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>mputed to State-matters. <hi>Paul</hi> m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt die, if the people have their will, though he preache<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Chriſt Ieſus,</hi> yet by them accounted a mover of ſedition <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pon a civil ac<g ref="char:EOLhyphen"/>count is my life taken away; y<gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> proſecuted nothing againſt th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> preſent pow<g ref="char:EOLhyphen"/>er. I am this day making a double exchange, a Pulpit for a Scaffold and a Scaf<g ref="char:EOLhyphen"/>fold for a Thro<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, and may alſo trade a numerous multitude for the innumerable Company of Saints on <hi>Tower-Hill,</hi> for the holy Hill of <hi>Sion,</hi> and this Guard of Souldiers
+<pb n="2" facs="tcp:118636:2"/>
+for a Guard of Angels to carry my ſoule <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nto <hi>Abraham</hi> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> this is the beſt Pulpit I ever came into, in my former God made me an inſtrument to <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> others to Heaven, hereby God brings me to Heaven. Theſe are the laſt words I ſhall ſpeak, and perhaps this laſt ſpeech of mine may bring more glory to God, then my former Sermons. Before I lay down my neck to the block, I ſhall lay o<g ref="char:EOLhyphen"/>pen my cauſe to the people, I ſpeak the truth and lie not, God is my witneſs whom <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſerve in my ſpirit, I do not bring a revengeful heart to the Scaffold, but avoid<g ref="char:EOLhyphen"/>ing all rancor and mallice, I have bagged mercy for them that denied mercy to mee<g ref="char:punc">▪</g> and have prayed God to forgive them that would not forgive me; and the worſt I wiſh to them is, that I may meet their ſoules in Heaven. Concerning my charge which is black and hiddeous, wherein many things were falſly ſuggeſted, but nothing ſufficiently proved by any one Act. The Charge high and full, but the proof empty and lowe, though there were eight Witneſſes againſt me, yet none proved that I ever wrote any Letter, or directed any to write, no man prov<g ref="char:EOLhyphen"/>ed that I ſent away any Letter that I collected any mony for <hi>King, Queen,</hi> or any of the <hi>Scottiſh</hi> Nation, as concerning my accuſers, I have forgiven them, and I pray God forgive them alſo; they not all agree amongſt themſelves; for ſome being terrified before-hand, would not bear witneſs againſt me. Another ſent to me un<g ref="char:EOLhyphen"/>der his own hand, deſiring to forgive him for the wrong he had done me, and told me that day I ſhould die a violent death, his life would be no comfort to him, becauſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e was an inſtrument of taking away mine. As concerning my accuſers, I wil not judge them, neither will I juſtifie them. I believed what moved <hi>Herod</hi> to put off <hi>Iohn Baptiſts,</hi> was the cauſe of my death, for telling <hi>Herod</hi> of his herd inceſt, and for his Oaths ſake Command was given to behead <hi>Iohn;</hi> to avoid, perjury, he would commit murther: had <hi>Iohns</hi> head continued on his ſhoulders, he would have been guilty of <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>. Concerning my ſelf who have gone through many and various <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>po<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ts, ſome have been ready to bury my name before my friends were ready to bury my body. God will not only wipe off teares from mine eyes after death, but will one day wipe of blots from my name; my hope is, my name will not rot above ground when this body of mine ſhall rot under ground<g ref="char:punc">▪</g> and be re<g ref="char:EOLhyphen"/>ſolved into duſt. I am not ignorant what calumnies are caſt <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> me, the verynight before I was to ſuffer the laſt moneth, an inſulting Letter came to my hand, inti<g ref="char:EOLhyphen"/>mating that ſomething would be written againſt me after my death; but I hope you are more ingenuous then to give credit to it, ſeeing I cannot then ſpeak for my ſelf<g ref="char:punc">▪</g> I am aſperſed, both as to practice and principles, there are 5 aſperſions laid upon me, firſt to matter of practice that I am a liar. I hope you will believe a dying man that dares not look God in the face with a lie in his mouth, I denyed nothing<g ref="char:punc">▪</g> that was true before the Court what I denyed before that, I confeſſed afterwards ſay ſome, that I never wrote Letter to the <hi>King</hi> or <hi>Queen, Church</hi> or <hi>State</hi> of <hi>Scotland,</hi> that I never received any letter wrote to me from any one of them; that I never collected, gave or lent one penny to this or that particular per<g ref="char:EOLhyphen"/>ſon, or to any of the <hi>Scottiſh</hi> Nation; it is true I confeſs, and herein lies the mi<g ref="char:EOLhyphen"/>ſtake; but it was <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> proved againſt me that I ſent either money on Letters to <hi>Maſſey,</hi> he was of the <hi>Engliſh,</hi> not of the <hi>Scottiſh</hi> Nation, I am accuſed of moving to ſend money <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o the King and State of <hi>Scotland,</hi> which I never did, and therefore that I ſaid at the <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> after my ſentence, I ſay <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that for the things I am con<g ref="char:EOLhyphen"/>demned,
+<pb n="3" facs="tcp:118636:3"/>
+neither does God not my own conſcience condemne me<g ref="char:punc">▪</g> The next particular I am accuſed of is to be an extortioner, I am charged as to have recei<g ref="char:EOLhyphen"/>ved 30.<abbr>l.</abbr> of the loane of 300.<abbr>l.</abbr> which in the preſence of God and of you all is a notorious fable; <hi>I</hi> am accuſed likewiſe to be an adulterer: but as Luther in ano<g ref="char:EOLhyphen"/>ther caſe ſaid he was not tempted to covetouſneſſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, ſo may J ſay that through the grace of God, I was not tempted to uncleaneſſs in all my life, it doth not much grieve mee though theſe ſl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nders lie upon me, When as <hi>Athenaſius</hi> was ac<g ref="char:EOLhyphen"/>cuſed by two H<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rlots that he had committed folly with them, though he was very chaſt but that which comes neareſt my heart is this, that I am accuſed to be a murtherer, alſo charged with the guile of all the blood that hath been ſhed in <hi>Scotland</hi> were I gu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lty of one drop of it; I could not be filled with ſo much tranquility and peace of mind, ſo much ſerenity and joy of ſpirit as now I am. I bleſs God, I am free from the blood of all men, they do to me as <hi>Nero</hi> did to the Chriſtians, he ſet <hi>Rome</hi> on fire, and charged the Chriſtians with it: they put <hi>Eng<g ref="char:EOLhyphen"/>land</hi> and <hi>Scotland</hi> in a fl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me, and l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y the charge upon me, which only the ambiti<g ref="char:EOLhyphen"/>on and luſts of wicked men have kindled. Did I ever invite or incourage our <hi>Eng<g ref="char:EOLhyphen"/>liſh</hi> Army to invade <hi>Scotland?</hi> his I have done, and ſtand too, I have as a private man prayed to God, wherein I have beſought him, that there might be an agree<g ref="char:EOLhyphen"/>ment between the <hi>King</hi> and the <hi>Scots</hi> upon intereſts of Religion.</p>
+            <p>I was only at one meeting where ſuch things were propoſed, namely to promote the agreement between the King and Scots: I do declare againſt the Commiſſions as they called them, and it is an Act of high preſumption and of notorious falſe<g ref="char:EOLhyphen"/>hood to ſay it was a plot of the Presbyterian party; it was the ſubtilty of a poli<g ref="char:EOLhyphen"/>tique party to raiſe this thereby to make the Presbyterians odious, who are the beſt ordered perſons for a Government in the World.</p>
+            <p>I am ſaid to be a man of A turbulent ſpirit, and an enemy to the peace of this Nation, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ndeed I am borne a man of contention, not active but paſsive <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> many ſtrive and contend with mee, I ſtrive with no man, the greif of my heart hath been for diviſions, and the deſire of my ſoule for a union among Gods people, I do not mean a State union to ingage againſt the preſent power, that is rather a combination &amp; a confedracy then a union: Thoſe that have gotten power by pol<g ref="char:EOLhyphen"/>licy and uſe it with cruelty, ſhall loſe it with Ignominie; I remember an obſer<g ref="char:EOLhyphen"/>vation of holy Greenwood, giving his judgment upon State, Government he fea<g ref="char:EOLhyphen"/>red the comming in of Popery; I feare Atheiſme, Blaſphemy, and all manner of H<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reſie is ruſhing in upon this Land; that as to my practiſe, A word now to my principles. I am accuſed to be an apoſtate, to be this, to be that, to be any thing, but what I am: A high Court, A long Sword, and a bloody Scaffold, hath not made me to change my principles, what I ſhall ſay is not to provoke any; I die with my judgement ſet againſt malignity; I doe not count the covenanting Godly party in <hi>Scotland</hi> to be Malignants for defending their Land againſt invaders though againſt malignitie, not againſt a mixt Monarchy: I did oppoſe the forces of the late King in my place and calling, and ſhould he live now and were I to live longer, ſhould do it ſtill; I did oppoſe his forces, but <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> never againſt the Office of a King; <hi>I</hi> was againſt Court Paraſites that would ſcrue up Monarchy to Tyrannie, as againſt thoſe that pull it down to bring in Anarchie, <hi>I</hi> was never for putting him to death, nor did <hi>I</hi> ever endeavour to deſtroy his perſon, there
+<pb n="4" facs="tcp:118636:3"/>
+is a ſpeech upon the preaching a Sermon by me at <hi>Vxbridge,</hi> that all would not he well till the King was let blood in the neck-veine, but this report as many o<g ref="char:EOLhyphen"/>ther is full of vanity and folly.</p>
+            <p>
+               <hi>I</hi> die with my judgement not ſatisfied to take the ingagement, God preſerve thoſe that refuſe it: <hi>I</hi> would not in the next place be lookt upon as owning this preſent Government, <hi>I</hi> die with my judgment againſt it: it was in the caſe of life, <hi>I</hi> did petition, giving them the titles as other men do. <hi>Huſha</hi> gave the title to <hi>Abſalom</hi> though <hi>David</hi> was the lawfull King, <hi>Calvin</hi> gave a title to the French King <hi>Rex. Chriſtianiſſimus,</hi> and we to <hi>Henry</hi> the 8th. ſt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ling him defender of the Faith, he had no right to the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>itle, becauſe given him upon an ill ground by the Pope for oppoſing the doctrine of <hi>Luther,</hi> which none did ſcruple afterwards to give him. In the laſt place, to provoke none my judgement is againſt the invaſion of the Engliſh Army into the Scottiſh Nation that joyned with us, <hi>I</hi> drew their ſwords in our quarrell; and now be <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> they would not be a Commonwealth, they ſhall not be a people, becauſe they would not lay their Conſciences waſte, their Land muſt be laid waſte; <hi>I</hi> die cleaving to all thoſe Oathes, Vowes, and Pro<g ref="char:EOLhyphen"/>teſtations, and that ſolemne League and Covenant that were impoſed by the two Houſes of Parliament, and I had rather die a Covenant keeper then live a Co<g ref="char:EOLhyphen"/>venant breaker.</p>
+            <p>The third and laſt part of my Speech is with a word of exhortation to this great City; and then I commit my ſoule to God that gave it. <hi>I</hi> have wiſhed it both af<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ence and confluence of all happineſſe: <hi>London, London,</hi> God is ſtaining the pride of all thy glory, contempt of the Miniſtry, oppoſition againſt Reformation hath brought <hi>London</hi> low, and I feare will yet bring it lower. <hi>I</hi> tremble to think what <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vils are comming upon it for as Commodities have been ſpread from hence into all the corners of the Land, ſo Hereſies and Blaſphemies in all parts of this Nation have their riſe from hence; firſt let me beg you to love the painefull and godly Miniſters if they be taken away; you are like to have worſe come in their roome; Miniſters are now the great eye ſores, when before counted the Chariots and Horſe-men of Iſrael. After <hi>Junius</hi> was taken away, <hi>Arminius</hi> that peſtilent <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e<g ref="char:EOLhyphen"/>retique came in his roome: Anabaptiſts, Arminians, nay Jeſuits are like now to ſpread <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pace. Submit to Church government that would lay reſtraint upon your luſts. A golden yoak if not ſubmitted to, God may lay an iron yoak upon you; Take heed of thoſe Doctrines that come under the notion of new lights, when the brothers the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eof ſay it is new, it is to be queſtioned whether they be true. In 3<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <hi>Deut.</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>7. it is ſaid, there they ſacrifice<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to Devills, not to God, to gods whom they knew not, to now gods that came newly up: their new gods, what were they but old Devills<g ref="char:punc">▪</g> many of thoſe things going under the notion of her <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ghts, are but old darkneſſe raked out of the dunghill of error that hath been <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſt out, and by the Church buried with reproach. 4. Bewaile the great leſſe you have of the taking away your Miniſters, already ten Miniſters at once, thoſe burn<g ref="char:EOLhyphen"/>ing and ſl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ining lights in their particular Candleſticks, and bright Star<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es in their ſeveral Oths, though I am not worthy of the world, yet I am take<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of it; but as for my ſuffering Brethren, which are under bonds and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aniſhments in the world, of them the world is not worthy. Take heed of ingaging the Wa<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e with <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> friends, I have oppoſed the Tyranny of a King, but <hi>I</hi> never oppoſed the
+<pb n="5" facs="tcp:118636:4"/>
+Ti<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>le take heed what you do, to ſpeak to the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Miniſters of this City; were <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a dying, I would ſay nothing, for multitude of years teach wild in, and therefore would be ſilen<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>: I deſire God to ſhew them mercy. I would begg but <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of them as they have not been aſhamed of my chaines, ſo now that they would wax confident by my bonds and blo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, <hi>Acts.</hi> 29. Now Lord behold their threatnings: and grant unto thy Servants, that with all boldneſs they may ſpeak thy word, though I am but young I will offer my young experience to my grave Fathers and Brethren, now I am to d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e I have abundance of peace in my own Con<g ref="char:EOLhyphen"/>ſcience, that I have ſet my <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> againſt ſin and apoſtacy by purchaſing <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll wil from ſuch, I have procured peace from God, I have lived <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> pe<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>, and I ſhall die in peace, the Government of the Church, will ſtand: and of all <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> with this per<g ref="char:EOLhyphen"/>ſwaſion, that the Presbyterian Government makes moſt for purity and unity throughout the Churches of the Saints: take heed of too general admiſſions to the Lords Supper, and be not to prodigal of the blood of Chriſt. Now ſpeaking to them I ſhall ſpeak a word of them, and ſo finiſh, Many <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> there, as if all the City Miniſters did ingage in this deſign; for which I a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> now con<g ref="char:EOLhyphen"/>demned as a dying man; I tell you, all the Miniſters that were pre<g ref="char:EOLhyphen"/>ſent at the meeting, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or had any hand in that buſineſs, they are ei<g ref="char:EOLhyphen"/>ther in priſon or diſcovered already: therefore upon my death, I free all the Miniſters elſe, and in which my conſcience doth tell me I have not ſinned: I have done immediatly; for <hi>I</hi> would fain be at my Fathers houſe: I would ſpeak to my own <hi>Congregation,</hi> to give praiſe to <hi>God</hi> for them, and to return thanks to them; for they have afforded me a great deal of love (ex<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ept a few) and liberall maintenance: This is all I deſire of them to chooſe a Learned, Godly, and Ortho<g ref="char:EOLhyphen"/>dox Miniſter to ſucceed; and it would be a great comfort to me before I go to Heaven if ſuch a one filled the place; where he ſhall have a good livelyhood, and much <hi>love;</hi> I had never parted from them, but that <hi>Death</hi> ſeparated me; to which I do ſubmit with all <hi>Chriſtian-meekneſs,</hi> and <hi>cheerfulneſs:</hi> I am now drawing to an end of my Speech, and to an end of my Life together: But before I expire my laſt breath, I come to juſtifie God, and condemn my ſelf; for God is righteous, be<g ref="char:EOLhyphen"/>cauſe I have ſinned, though he doth cut me off in the midſt of my dayes, and of my Miniſtry; I cannot take up that complaint in the 44 Pſalm, <hi>That thou ſelleſt thy people for nought:</hi> My bloud ſhall not be ſpilt for nought; I may do more good by my death, and glorifie God more upon a Scaffold, then in dying upon my Bed: Bleſſed be God I have not the leaſt trouble in my mind; I ſhall quietly lay my ſelf down upon the block; I ſee men hunger after my fleſh, and thi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt after my bloud; which will heighten my happineſs, and haſten their ruine: Though my bloud be not as the bloud of Nobles; yet mine is Chriſtian bloud; nay, Miniſters bloud; nay more innocent bloud alſo: My dead-body will be a morſel hardly to be digeſted, and but <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ad food for this <hi>Infant Common-wealth</hi> (as Mr. <hi>Prideaux</hi> cals it) to ſuck upon; but <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>od is juſt, that he hath not made the Priſon Hell, and this Scaffold the bottomleſs if; it is of his mercy: I do not onely juſtifie God, but muſt alſo magnifie the riches of his grace towards me, that I who was born in <hi>Wales</hi> (an obſcu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Countrey, of obſcure Parents) ſhould be ſingled out. For 14 years I never heard one Sermon; yet in the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 5 year it pleaſed God to convert me: Bleſſed be God that hath not onely made me a Chriſtian, but a Miniſter alſo<g ref="char:punc">▪</g>
+               <pb n="6" facs="tcp:118636:4"/>
+and judging me faithful hath put me into the Miniſtery; it is my glory I die ſo; I had rather be a Preacher in a Pulpit, then a Prince upon a Throne; I had rather be an inſtrument of bringing ſouls to heaven, then that all Nations ſhould bring in tribute to me, what ever men judge of me, I am a Martyr, would I have injured my Conſcience, and ventured my ſoule, there had been more hope of ſaving my life: bleſſed be God, I have not ſined, but choſen affliction rather then ſin; wellcome death, wellcom Axe, wellcom Scaffold, wellcom all, becauſe they will ſend me to a manſion in my Fathers houſe; thanks be to God he hath ſtood by me in all my impriſonment, he hath ſtrengthened and ſupported me, though I now come to an untimely end; death is not a terror to me, God is not a terror, therefore death is not dreadful. I have formerly been under a ſpirit of bondage, and had more fear in the drawing of a tooth, then now for the cutting off my head: when fear was upon me, death was not near; now death is near, fear is vaniſhed. I bleſs God, though men judge me to be caſt out of the world, God hath not caſt me out of his own people: ſome think I am not worthy to live, yet others judge I do not deſerve to die. I have done, having no more to ſay, but to deſire the help of your prayers, that God would give me continual ſupplies of di<g ref="char:EOLhyphen"/>vine grace to carry me through this great work I am to do, that doing a work I neer did, I may have that ſtrength I never had, that I may put off this body with as much comfort of mind, as ever my Clothes to go to reſt. Now I am to com<g ref="char:EOLhyphen"/>mend my ſoule to God, and to receive my fatal blowe: though men thruſt me out of the world, they cannot ſhut me out of Heaven<g ref="char:punc">▪</g> I am going to my long home, and you are g<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing to your ſhort home; but I tell you, I ſhall be at home before you, I am going to the Heavenly <hi>Jeruſalem,</hi> to an innumerable Compa<g ref="char:EOLhyphen"/>ny of <hi>Angels,</hi> to the ſpirits of juſt men made perfect, and to God the Judge of all, in whoſe preſence I ſhall have fulneſs of joy, and pleaſure for evermore. I conclude with that Speech of the <hi>Apoſtle</hi> in 2 <hi>Tim.</hi> 4.6.7. <hi>I am ready to be offered, and the time of my departure is at hand, I have fought a good fight, I have finiſhed my courſe, and I have kept the faith henceforth there is laid up for me a Crown of righte<g ref="char:EOLhyphen"/>ouſneſs, which the Lord the righteous Judge ſhall give me at that day, and not to me only, but unto all them alſo that love his appearing, through whoſe blood, when I have ſhed my blood<g ref="char:punc">▪</g> I do expect full remiſſion of all my ſins, and ſo the Lord bleſſe you all.</hi>
+            </p>
+            <p>And then taking his leave of them, ſaid; Beloved Chriſtians <hi>I deſire your Chriſti<g ref="char:EOLhyphen"/>an aſſiſtance in this great work; I beſeech you joyn with me in prayer:</hi> And ſo imme<g ref="char:EOLhyphen"/>diately (ſtanding at the Rail) expreſſed himſelf as followeth:
+<q>
+                  <p>MOſt Eternal and glorious Lord God, I thy poor and unworthy Creature, do here humbly proſtrate my ſelf before thy ſacred Majeſty; beſeeching thee through the merits of Jeſus Chriſt my bleſſed Saviour and Redeemer, to have mercy on me; and to wipe away all my ſins and tranſgriſſions; and dear Father I humbly beſeech thee that thou wil<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> be pleaſed to ſtrengthen me with thy bleſſed Spirit, in this great work, that ſo I may freely and willingly lay down my neck upon the block; and all this I implore and <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rave, not onely for my ſelf, but for my brother alſo that <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> day to come after me; with wh<gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> hope <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> have a triumphant meeting in thy glorious and eternal Kingdom.</p>
+               </q>
+            </p>
+            <p>Having ended his prayer, he turned himſelf about to the Executioner, ſaying;</p>
+            <p>Friend, Are all things in readineſſe: Yes ſir, Replyed the Exe<g ref="char:EOLhyphen"/>cutioner:
+<pb n="7" facs="tcp:118636:5"/>
+whereupon, he unbraced his Doublet, and gave it to a friend and than pulled out a Red Scarf out of his pocker, and gave it to the Executioner, ſaying, Diſpoſe of this upon the block as thou thinkeſt convenient, which accordingly he did, ſpreading it upon the Sawduſt, and laying it upon the Block; Then Mr. Love put his hand in his pocket and took out 3. <abbr>l.</abbr> wrapt up in a white paper, and gave it to the Executioner ſaying; Friend, here is three pieces for thee, do thy Of<g ref="char:EOLhyphen"/>fice, and I beſeech God to forgive thee, as I freely do<g ref="char:punc">▪</g> then Mr. Love kneeled down, and laid his Neck upon the Block; and by the ſign of lifting up his left ha<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the executioner immediatly let fall the ax, and at one blow ſevered his <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ad from his shoulders: which being done, be took up the head in his hand, and preſently after laid both body &amp; head in the black coffin together<g ref="char:punc">▪</g> which was ſoon carryed off, having a mourning cloth over it, Doctor Dun (the chyrurgeon) attending the ſame, for the uniting of both together again.</p>
+            <p>That thinking upon the ſeparation of his Head from his Body, it was a ſweet contemplation to him, to conſider the conjunction of his ſoule with his head in Heaven, being as ready to die as <hi>Moſes</hi> was, when there was no more between God and him, but <hi>Moſes</hi> go up and die, with an heroical alacrity tempered with a gracious humility, did he give up his ſoule to God, and bid farewel to the world.</p>
+            <p>No ſooner was his Corps carried down to the Scaffold ſtaires, but immediate<g ref="char:EOLhyphen"/>ly Mr. <hi>Gibbins</hi> (formerly Secretary to Col. <hi>Hollis</hi>) was guarded up by ſome of the Sheriffs Officers, who came in <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Coach from the Preſs-gard at <hi>Newgate,</hi> to the place of execution on <hi>Tower-Hill.</hi> He deported himſelf with a great deal of reſo<g ref="char:EOLhyphen"/>luteneſs and gallantry, and after an indifferent copious Speech, to this effect, That he was innocent of what he was b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ought thither for that day; but yet notwith<g ref="char:EOLhyphen"/>ſtanding would not change his condition of laying his neck to the Block for an Emperors Throne, if he might get ten thouſand worlds by it: then immediately going to prayer, (having ended the ſame) he unbraced himſelf, and gave his Cloak, Doublet, and two Rings to his Uncle, and two pounds to the Executio<g ref="char:EOLhyphen"/>ner, and then laying his neck upon the Block, the Executioner did his Office by receiving the ſign, and lifting up his left hand, ſevered his head from his ſhoul<g ref="char:EOLhyphen"/>ders at one blow, and a little <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
